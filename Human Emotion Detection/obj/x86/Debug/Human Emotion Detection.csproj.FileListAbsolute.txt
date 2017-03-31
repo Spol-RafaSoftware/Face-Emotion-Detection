@@ -1,0 +1,22 @@
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Form1.resources
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Form2.resources
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Properties.Resources.resources
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\bin\Debug\Human Emotion Detection.exe
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\bin\Debug\Human Emotion Detection.pdb
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.exe
+c:\users\vishal\documents\visual studio 2010\Projects\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.pdb
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.exe
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.pdb
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Form1.resources
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Form2.resources
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human_Emotion_Detection.Properties.Resources.resources
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\bin\Debug\Human Emotion Detection.exe
+C:\Users\Vishal\Desktop\Project Material\Human Emotion Detection\Human Emotion Detection\bin\Debug\Human Emotion Detection.pdb
+H:\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.exe
+H:\Project Material\Human Emotion Detection\Human Emotion Detection\obj\x86\Debug\Human Emotion Detection.pdb
